@@ -1,5 +1,7 @@
 WARNING: I DONT KNOW IF THIS WILL WORK ON ANY RESOLUTION BESIDES 1920x1080p
 
+
+
 How to use Steamautoinstaller on Windows 10/11:
 Youtube link: https://www.youtube.com/watch?v=gvNXnEhqf8U
 
