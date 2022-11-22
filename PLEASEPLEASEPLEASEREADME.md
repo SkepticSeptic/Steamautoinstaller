@@ -5,7 +5,9 @@ WARNING: I DONT KNOW IF THIS WILL WORK ON ANY RESOLUTION BESIDES 1920x1080p
 How to use Steamautoinstaller on Windows 10/11:
 Youtube link: https://www.youtube.com/watch?v=gvNXnEhqf8U
 
-Step 0: Install steamautoinstall0.04 or whatever the newest filename is
+(KEEP SCROLLING FOR LINUX
+
+Step 0: Install steamautoinstaller#.## from here: https://github.com/SkepticSeptic/Steamautoinstaller
 
 Step 1: Install Python 3.10, preferrably from microsoft store
 
@@ -20,3 +22,18 @@ Step 5: In Command Prompt, type "cd Downloads" (or wherever you downloaded steam
 Step 6: In Command Prompt, type "python steamautoinstaller0.##.py" (## is the version number, you would type 0.04 or whatever the downloaded version you have is)
 
 Step 7: Follow prompts, and dont forget to fullscreen steam in the background.
+
+
+Linux steps:
+
+Step 0: Install steamautoinstaller#.## from here: https://github.com/SkepticSeptic/Steamautoinstaller
+
+Step 1: Double check you have the latest version of python
+sudo apt-get upgrade python3
+Step 2: Install pip in your terminal:
+sudo apt-get install pip
+Step 3: Install pyautogui (in terminal):
+pip install pyautogui
+Step 4: Run steamautoinstaller (in terminal):
+python3 steamautoinstaller#.##
+Step 5: Follow prompts & make sure to fullscreen steam before starting
